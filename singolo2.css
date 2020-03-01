@@ -1,0 +1,154 @@
+@font-face {
+    font-family: "Lato Bold";
+    src: url("assets//Lato-Bold.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Lato Black";
+    src: url("assets/Lato-Black.ttf") format("opentype")
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("assets/Lato-Regular.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Lato Thin";
+    src: url("assets/Lato-Thin.ttf") format("opentype");
+}
+
+
+.portfolio_header {
+    margin-bottom: 0px;
+}
+
+.portfolio {
+    width: 1020px;
+    height: 864px;
+    background-color: #2d303a;
+    border-bottom: 6px solid #323746;
+    color: #666d89;
+}
+.portfolio_img_mini{
+    margin: 1px 0px 19px 0px;
+}
+
+.duis{
+ margin: 17px 14px 15px 0px;
+ letter-spacing: -0.012em;
+}
+
+.portfolio_txt {
+    padding: 39px 0 0 40px;
+    font-family: "Lato Bold";
+    font-size: 30px;
+    line-height: 18px;
+    margin-bottom: 0px;
+    letter-spacing: 0.008em;
+}
+
+.smal_p {
+    font-size: 18px;
+    font-family: "lato";
+    padding: 14px 0 0 41px;
+    letter-spacing: 0.001em;
+    word-spacing: 0.01em;
+}
+
+.sp {
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid rgb(102, 109, 137);
+    margin-right: 6px;
+    line-height: 18px;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 2px 6px 4px 6px;
+    font-family: 'lato';
+}
+
+.icon {
+    margin-left: 41px;
+    margin-bottom: 21px;
+}
+
+.portfolio_img {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 620px;
+    overflow: hidden;
+}
+
+/* portfolio end */
+.portfolio_img1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin:0px ;
+}
+
+
+.about_us {
+    height: 734px;
+    width: 1020px;
+    background-color: #f2f2f2;
+    border-bottom: 6px solid#ffffff;
+    color: #666d89;
+    font-family: 'lato';
+}
+
+.about {
+    margin: 0px;
+    font-size: 30px;
+    padding: 58px 0 0 41px;
+    letter-spacing: 0.01em;
+}
+
+.pg_about {
+    font-size: 18px;
+    padding: 2px 41px 0 40px;
+    letter-spacing: -0.005em;
+    line-height: 1.6em;
+    word-spacing: 0.1em;
+    font-family: 'Lato Thin';
+    font-weight: 600;
+
+}
+
+.photo {
+    display: flex;
+    margin:45px 14px 0 39px;
+    font-size: 18px;
+    font-family: 'Lato';
+    font-weight: 900;
+}
+
+.photo_inf {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.7em;
+    margin: 10px px 12px 12px
+}
+
+.name{
+    margin: 16px 0px 0px 1px;
+}
+.portfolio_img3{
+margin: 0 40px 0px 0px;
+}
+.portfolio_img2{
+    margin: 0 0 0 3px;
+}
+
+.social{
+    margin: 10px 5px 0px 0px;
+}
+.photo_column{
+}
+.all_about{
+
+}
