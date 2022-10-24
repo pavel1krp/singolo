@@ -17,7 +17,10 @@
     font-family: "Lato Thin";
     src: url("assets/Lato-Thin.ttf") format("opentype");
   }
-
+body{
+    margin: 0 auto;
+    width: 1020px;
+}
 .header {
     font-size: 5px;
     color: rgb( 255, 255, 255);
